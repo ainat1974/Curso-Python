@@ -1,2 +1,2 @@
 # Curso Python
- Primeiro módulo Curso Python Mundo 01 do Estudonauta
+ Primeiro repositório do módulo Curso Python Mundo 01 do Estudonauta
